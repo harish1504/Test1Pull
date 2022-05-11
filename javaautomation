@@ -1,0 +1,8 @@
+Que: What is String in Java?
+Answer: String is an object that represent sequence of characters
+Question: How many ways to define string?
+Answer: There are two ways:
+1st is by "String literal"
+ex: String s = "Harish Kinkar";
+2nd is by the "New keyword" 
+Ex: String s1 = new String("Harish");
