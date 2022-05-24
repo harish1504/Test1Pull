@@ -6,3 +6,5 @@ Answer: There are two ways:
 ex: String s = "Harish Kinkar";
 2nd is by the "New keyword" 
 Ex: String s1 = new String("Harish");
+
+Test Demo
